@@ -19,6 +19,7 @@ def show_popup():
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
             z-index: 1000;
             text-align: center;
+            style="color:black;"
         }
         </style>
         <div class="popup">

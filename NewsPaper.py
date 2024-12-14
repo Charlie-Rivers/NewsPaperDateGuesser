@@ -23,7 +23,7 @@ def show_popup():
         }
         </style>
         <div class="popup">
-            <h3 style="color:black;">Welcome to the Historical Newspaper Explorer!</h3>
+            <h3 style="color:black;">Welcome to the Historical Newspaper Explorer!!</h3>
             <p style="color:black;">Guess the year of historical newspaper snippets and learn about history!</p>
             <button onclick="window.location.reload()">Close</button>
         </div>
